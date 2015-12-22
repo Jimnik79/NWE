@@ -1,0 +1,36 @@
+The required content files for examples:
+- Content\Map\Prototype.txtmap
+- Content\Mesh\BlackJack\
+- Content\Mesh\Soldier\
+- Content\Mesh\Weapon\AKM\
+- Content\Mesh\Weapon\Grenade\
+- Content\Mesh\Weapon\M16\
+- Content\Mesh\Weapon\Mine\
+- Content\Mesh\Weapon\Negev_NG7\
+- Content\Mesh\Weapon\RPG\
+- Content\Mesh\Weapon\Sniper\
+- Content\Mesh\Weapon\TT\
+- Content\Mesh\Weapon\Uzi\
+- Content\Mesh\Board.dds
+- Content\Mesh\Board.sdkmesh
+- Content\Mesh\KnightW.dds
+- Content\Mesh\Knight.sdkmesh
+- Content\Shader\CS.hlsl
+- Content\Sound\Weapon\Reload.wav
+- Content\Sound\Weapon\Shot.wav
+- Content\Sound\Click.wav
+- Content\Sound\Pong.wav
+- Content\Texture\BackGround.dds
+- Content\Texture\BlackJack.jpg
+- Content\Texture\Ground.dds
+- Content\Texture\NetWarsUI.dds
+- Content\Texture\Panel.dds
+- Content\Texture\Pers.dds
+- Content\Texture\Pong.dds
+- Content\Texture\Resource.dds
+- Content\Texture\Sight.dds
+- Content\Texture\Wall.dds
+- Content\Video\Teleport.avi
+- Content\Video\Galaxy.avi
+
+
